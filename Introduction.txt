@@ -1,0 +1,1 @@
+An operational amplifier is an electronic component that amplifies the differential voltage between a pair of input nodes. To amplify in this context means to increase a signal’s voltage, while maintaining its waveform. This component is used in almost every electronic device in existence, but its impact is most obvious in devices that work with audio.
