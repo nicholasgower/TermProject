@@ -42,3 +42,4 @@ def main():
       for row in sheet:
       	table.add_row([row['Name'],row["SKU"],row["Vendor"],row["Price"],row["Shipping Time"])
       	table.add_hline()
+  addSection(doc,'Data','dataAnalysis.txt')
